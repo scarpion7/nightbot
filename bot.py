@@ -28,7 +28,7 @@ if __name__ == "__main__":
     app.run(host="0.0.0.0", port=port)
 
 
-TOKEN = '7025127609:AAHaAtdtx_Ip3Q7uB3AXSCmM_uPw8Ugc1zU'
+TOKEN = '7702362790:AAGpmNa9pUD3DkgWoO8hCTwTwDYTvZyZf2c'
 bot = telebot.TeleBot(TOKEN)
 
 @bot.message_handler(commands=['start'])
